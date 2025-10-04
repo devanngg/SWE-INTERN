@@ -1,9 +1,23 @@
 [
   {
     "id": 1759533298856,
-    "amount": "300301",
+    "amount": "250",
     "category": "Food",
     "date": "2025-10-01",
-    "note": "Lunch"
+    "note": "Lunch with roomie"
+  },
+  {
+    "id": 1759534096528,
+    "amount": "450",
+    "category": "cab service",
+    "date": "2025-09-30",
+    "note": "Fun trip"
+  },
+  {
+    "id": 1759534112161,
+    "amount": "1",
+    "category": "food",
+    "date": "2025-08-04",
+    "note": ""
   }
 ]
