@@ -95,18 +95,3 @@ POST	/api/expenses	Add a new expense.
 PUT	/api/expenses/:id	Update an existing expense.
 DELETE	/api/expenses/:id	Delete an expense.
 
-Export to Sheets
-
-
-
-
-
-
-
-
-
-
-
-Tools
-
-G
